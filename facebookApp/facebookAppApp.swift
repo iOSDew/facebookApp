@@ -11,7 +11,7 @@ import SwiftUI
 struct facebookAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            homePage()
         }
     }
 }
